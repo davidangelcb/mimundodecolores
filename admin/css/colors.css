@@ -1,0 +1,325 @@
+/*********************************/
+button.css3button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 10px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#ff4242 0%,
+		#910b1d);
+	background: -webkit-gradient(
+		linear, left top, left bottom,
+		from(#ff4242),
+		to(#910b1d));
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid #134201;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(224,0,45,1);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(224,0,45,1);
+	box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(224,0,45,1);
+	text-shadow:
+		0px -1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+.classname {
+	-moz-box-shadow:inset 0px 1px 0px 0px #f5978e;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f5978e;
+	box-shadow:inset 0px 1px 0px 0px #f5978e;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f24537), color-stop(1, #c62d1f) );
+	background:-moz-linear-gradient( center top, #f24537 5%, #c62d1f 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f24537', endColorstr='#c62d1f');
+	background-color:#f24537;
+	-webkit-border-top-left-radius:16px;
+	-moz-border-radius-topleft:16px;
+	border-top-left-radius:16px;
+	-webkit-border-top-right-radius:16px;
+	-moz-border-radius-topright:16px;
+	border-top-right-radius:16px;
+	-webkit-border-bottom-right-radius:16px;
+	-moz-border-radius-bottomright:16px;
+	border-bottom-right-radius:16px;
+	-webkit-border-bottom-left-radius:16px;
+	-moz-border-radius-bottomleft:16px;
+	border-bottom-left-radius:16px;
+	text-indent:0px;
+	border:4px solid #d02718;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:12px;
+	font-weight:bold;
+	font-style:normal;
+	height:27px;
+	line-height:27px;
+	width:200px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #810e05;
+}
+.classname:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #c62d1f), color-stop(1, #f24537) );
+	background:-moz-linear-gradient( center top, #c62d1f 5%, #f24537 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#c62d1f', endColorstr='#f24537');
+	background-color:#c62d1f;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
+/*selet input*/
+#select{width: 250px;}
+ 	  
+ 	 .select-group
+ 	 {
+ 	 position: absolute;
+ 	 }
+ 	  
+ 	 .select-group li
+ 	 {
+ 	  display: none;
+ 	  list-style: none; 
+ 	  border-left: 1px solid #DBE1EB;
+ 	  border-right: 1px solid #DBE1EB;
+ 	  border-bottom: 1px solid #DBE1EB;
+ 	  font-size: 16px;
+ 	  font-family: Arial, Verdana;
+ 	  padding-left: 7px;
+ 	  padding-right: 7px;
+ 	  padding-top: 5px;
+ 	  padding-bottom: 5px;
+ 	  border-radius: 4px;
+ 	  background: #003366;
+ 	  background: linear-gradient(top, #454F6F, #5D6684);
+ 	  background: -moz-linear-gradient(top, #454F6F, #5D6684);
+ 	  background: -webkit-linear-gradient(top, #454F6F, #5D6684);
+ 	  background: -o-linear-gradient(top, #454F6F, #5D6684);
+ 	  color: #FFFFFF;
+ 	 }
+ 	  
+ 	  .select-group li.select-box
+ 	  {
+ 	  background: #FFFFFF;
+ 	  border: 1px solid #000000;
+ 	  color: #000;
+ 	  display: block;
+ 	  }
+ 	   
+ 	  .select-group li.select-box:hover
+ 	  {
+ 	  background: #FFFFFF;
+ 	  color: #8A92AA;
+ 	  border: 1px solid yellow;
+ 	  }
+ 	  
+ 	  .select-group:hover > li
+ 	  {
+  	  cursor: pointer;
+ 	  display: block;
+ 	  }
+ 	   
+ 	 .select-group li:hover
+ 	 {
+ 	 background: #8A92AA;
+ 	 background: linear-gradient(top, #8A92AA, #A1A7BC);
+ 	 background: -moz-linear-gradient(top, #8A92AA, #A1A7BC);
+ 	 background: -webkit-linear-gradient(top, #8A92AA, #A1A7BC);
+  	 background: -o-linear-gradient(top, #8A92AA, #A1A7BC);
+ 	 }
+ 	  
+ 	 .icon-select
+ 	 {
+ 	 float: right;
+ 	 width: 18px;
+ 	 height: 18px;
+ 	 background-image: url(../media/misc/flecha.png);
+ 	 background-repeat: no-repeat;
+ 	 background-size: 100% 100%;
+ 	 }
+         /*sms*/
+input.btnForm, textarea.btnForm,select.btnForm {
+    border: 1px solid rgb(213, 213, 213);
+    border-radius: 4px 4px 4px 4px;
+    color: rgb(153, 153, 153);
+    font-family: verdana;
+    font-size: 13px;            
+    padding: 5px;
+    width: 300px;
+
+}
+input.btnForm{
+    margin-bottom: 10px;
+    padding-left: 18px;
+}
+select.btnForm{
+    margin-bottom: 10px;
+    padding-left: 18px;
+}
+textarea.btnForm {
+    padding-left: 18px;
+}
+
+#input-nombre {
+    background: url("../media/sprites3.png") no-repeat scroll 1px -60px  rgb(236, 236, 236) ;
+}
+#input-empresa {
+    background: url("../media/sprites3.png") no-repeat scroll 1px -16px  rgb(236, 236, 236) ;
+}
+#input-telefono {
+    background: url("../media/sprites3.png") no-repeat scroll 1px -38px  rgb(236, 236, 236) ;
+}
+#input-email {
+    background: url("../media/sprites3.png") no-repeat scroll 1px -124px  rgb(236, 236, 236) ;
+}
+#input-mensaje {
+    background: url("../media/lapiz.png") no-repeat scroll 1px 4px  rgb(236, 236, 236) ;resize:none;
+
+}
+.contacTitles{
+    width: 120px;
+    color:#464646;
+    font-family: verdana;
+    font-size: 12px;            
+}
+.requiredfields{
+    color:#464646;
+    font-family: verdana;
+    font-size: 10px;
+    padding-right: 195px;
+    line-height:10px 
+}
+.contacDireccion{
+    color:#464646;
+    font-family: verdana;
+    font-size: 13px;            
+}        
+/**BONTO*/
+.btnenviar {
+    -moz-box-shadow:inset 0px 0px 0px 0px #9c8a75;
+    -webkit-box-shadow:inset 0px 0px 0px 0px #9c8a75;
+    box-shadow:inset 0px 0px 0px 0px #9c8a75;
+    -webkit-border-top-left-radius:8px;
+    -moz-border-radius-topleft:8px;
+    border-top-left-radius:8px;
+    -webkit-border-top-right-radius:8px;
+    -moz-border-radius-topright:8px;
+    border-top-right-radius:8px;
+    -webkit-border-bottom-right-radius:8px;
+    -moz-border-radius-bottomright:8px;
+    border-bottom-right-radius:8px;
+    -webkit-border-bottom-left-radius:8px;
+    -moz-border-radius-bottomleft:8px;
+    border-bottom-left-radius:8px;
+    text-indent:0;
+    display:inline-block;
+    color:#ffffff;
+    font-family:Verdana;
+    font-size:13px;
+    font-weight:normal;
+    font-style:normal;
+    height:30px;
+    line-height:30px;
+    width:88px;
+    text-decoration:none;
+    text-align:center;
+    text-shadow:1px 1px 0px #474138;
+    background-color:#0073FE;
+}
+.btnenviar:hover {
+    background-color:#2E0596;
+    color: #ffffff;
+
+}.btnenviar:active {
+    position:relative;
+    top:1px;
+    color: #000000;
+}
+/*iconos derecha*/
+.icon-home,.icon-phone {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background-image: url('../media/sprites.png');
+    background-repeat: no-repeat;
+}
+.icon-home {
+    background-position: 0 0;
+}
+.icon-phone {
+    background-position: -24px 0;
+}
+.xd{
+    font-family: verdana;    
+    border: 3px solid #ac2020;
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    font-size:8px;
+}
+
+.xd legend{
+    background: #ac2020; 
+    color: #fff; 
+    padding: 5px 10px ; 
+    font-size: 15px; 
+    border-radius: 5px;  
+    box-shadow: 0 0 0 0px #ddd; 
+    margin-left: 20px; 
+}
+.styled-select select {
+    background: transparent;
+    width: 268px;
+    padding: 5px;
+    font-size: 12px;
+    line-height: 1;
+    border: 0;
+    border-radius: 0;
+    height: 34px;
+    -webkit-appearance: none;
+   }
+   .styled-select {
+    width: 240px;
+    height: 34px;
+    overflow: hidden;
+    background: url(../media/misc/down_arrow_select.jpg) no-repeat right #ddd;
+    border: 1px solid #ccc;
+   }
+   input.dateT{
+       font-size: 12px;
+       background-color: #ddd;
+        border-radius: 5px;  
+        box-shadow: 5px #000;
+        width: 80px;
+        text-align: center;
+   }
+   .nomatch{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 12px;
+       color:red;
+       line-height: 35px;
+   }
+   
+   input.controles{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 12px;
+       border:1px solid black;
+       padding: 3px;
+   }
+   input.controlesTxt{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 12px;
+       border:1px solid black;
+       padding: 3px;       
+   }
+   .controlesLabel{
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 12px;
+       padding: 3px;
+        color: #003366;
+   }

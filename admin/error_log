@@ -1,0 +1,20 @@
+
+[20-Feb-2015 11:30:08 America/Lima] PHP Fatal error:  Call to undefined function EditStatus() in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_galeria.php on line 98
+[20-Feb-2015 11:32:49 America/Lima] PHP Fatal error:  Call to undefined function loadItem() in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_galeria.php on line 104
+[20-Feb-2015 11:32:53 America/Lima] PHP Fatal error:  Call to undefined function loadItem() in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_galeria.php on line 104
+[20-Feb-2015 11:54:17 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[20-Feb-2015 11:57:24 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[20-Feb-2015 11:57:24 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_procesando.php on line 58
+[20-Feb-2015 11:58:47 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[20-Feb-2015 11:58:47 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_procesando.php on line 58
+[20-Feb-2015 11:58:56 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[20-Feb-2015 12:07:03 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[20-Feb-2015 12:07:08 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_procesando.php on line 58
+[20-Feb-2015 12:07:14 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[20-Feb-2015 12:07:16 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_procesando.php on line 58
+[20-Feb-2015 12:07:19 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[20-Feb-2015 12:09:08 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[20-Feb-2015 15:40:40 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[16-Mar-2015 09:50:36 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[08-Apr-2015 14:38:07 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
+[08-Apr-2015 14:39:55 America/Lima] PHP Warning:  Creating default object from empty value in /home/adminespiral/public_html/mimundodecolores.com/admin/ajax_news.php on line 52
