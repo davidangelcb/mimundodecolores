@@ -1,0 +1,21 @@
+[16-Feb-2015 17:52:12 America/Lima] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'mundodecolores'@'localhost' to database 'mundodecolores'' in /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php:23
+Stack trace:
+#0 /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php(23): PDO->__construct('mysql:host=loca...', 'mundodecolores', 'Adminmdc1!')
+#1 /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php(110): DbArgenper::getInstance()
+#2 /home/adminespiral/public_html/mimundodecolores.com/index.php(12): DbArgenper::fetchOne('select *  from ...')
+#3 {main}
+  thrown in /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php on line 23
+[16-Feb-2015 17:58:31 America/Lima] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'mundodecolores'@'localhost' to database 'mundodecolores'' in /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php:23
+Stack trace:
+#0 /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php(23): PDO->__construct('mysql:host=loca...', 'mundodecolores', 'Adminmdc1!')
+#1 /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php(110): DbArgenper::getInstance()
+#2 /home/adminespiral/public_html/mimundodecolores.com/index.php(12): DbArgenper::fetchOne('select *  from ...')
+#3 {main}
+  thrown in /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php on line 23
+[16-Feb-2015 17:58:45 America/Lima] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'mundodecolores'@'localhost' to database 'mundodecolores'' in /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php:23
+Stack trace:
+#0 /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php(23): PDO->__construct('mysql:host=loca...', 'mundodecolores', 'Adminmdc1!')
+#1 /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php(110): DbArgenper::getInstance()
+#2 /home/adminespiral/public_html/mimundodecolores.com/index.php(12): DbArgenper::fetchOne('select *  from ...')
+#3 {main}
+  thrown in /home/adminespiral/public_html/mimundodecolores.com/admin/lib/DbArgenper.php on line 23
