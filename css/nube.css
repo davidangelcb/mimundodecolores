@@ -1,0 +1,15 @@
+#divNubes{
+	width:100%;
+	height:174px;
+	background: url('../img/nube.png');
+}
+.puertaBG{
+        background: url('../img/puerta_open.png');
+}
+#sombra{
+         float: left; height: 100%; width:92px;  
+}
+#idVentana{
+    position: absolute; left: 844px;	top: 269px;width: 92px; height: 66px; background-image: url('img/ventana_l.png');
+    cursor: pointer;
+}
