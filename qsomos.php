@@ -69,13 +69,13 @@ if($_conf){
                     y como motor el amor.<br/>
                     Es as&iacute; que  un 22 de noviembre del 2010<br/> 
                     sus profesoras llenas de sentimientos <br/>
-                    de amor y de compromiso abren las puertas de este su nido <br/>
-                    "Mi mundo de colores".<br/>
+                    de amor y de compromiso abren las puertas de este <br>su nido <br/>
+                    "MI MUNDO DE COLORES".<br/>
                     Somos concientes de la gran responsabilidad que<br/>
-                    implica formar a asus ni&ntilde;os. m&aacute;s aun si nuestra misi&oacute;n<br/>
+                    implica formar a asus ni&ntilde;os. M&aacute;s aun si nuestra misi&oacute;n<br/>
                      es brindarles una educaci&oacute;n de calidad que integre su<br/>
-                    desarrollo intelectual y personal que les permita convertirse<br/>
-                    enlos triunfadores del mañana; esa es nuestra visi&oacute;n.<br/><br/>
+                    desarrollo intelectual y personal que les permita<br>convertirse<br/>
+                    en los triunfadores del mañana; esa es nuestra visi&oacute;n.<br/><br/>
 
                     Promotor: Luiz Carlos Re&aacute;tegui del  &Aacute;guila.<br/>
                     Directora: Glendy Lily Re&aacute;tegui del &Aacute;guila. <br/> 

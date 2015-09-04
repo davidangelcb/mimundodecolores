@@ -131,19 +131,19 @@ if($_conf){
                             </div>
                         </div>                                    
                 </div>
-                <div style="float: right; width: 350px;height: 450px; padding-top: 70px;">
-                    <div style="margin: 0 auto; width: 330px; text-align: left;font-family: arial;font-size: 13px;line-height: 15px;">
+                <div style="float: right; width: 390px;height: 450px; padding-top: 70px;">
+                    <div style="margin: 0 auto; width: 380px; text-align: left;font-family: arial;font-size: 13px;line-height: 15px;">
                     <center><img src="img/contactenos.png"></img></center></br></br>
                     <span class="txtContact">Tel&eacute;fono fijo: <img src="img/nothing.gif" width="5" height="1"/>261- 8558</br></span>
                     <span class="txtContact">Movistar:       <img src="img/nothing.gif" width="28" height="1"/> 975 - 390524</br></span>
                     <span class="txtContact">RPM:            <img src="img/nothing.gif" width="53" height="1"/> * 195281</br></span>
-                    <span class="txtContact">RPC:             <img src="img/nothing.gif" width="58" height="1"/>987986177</br></span>
+                    <span class="txtContact">RPC:             <img src="img/nothing.gif" width="58" height="1"/>989651522</br></span>
                     <span class="txtContact">Nextel:          <img src="img/nothing.gif" width="45" height="1"/>415* 8852</br></br></span>
 
 
                       <span class="txtContactB"> <b class="txtContactR">Email:</b>  nido_mimundodecolores@hotmail.com</span></br></br>
 
-                      <span class="txtContactB"> <b class="txtContactR">Ubicaci&oacute;n:</b> Jr. Marcos Palomino (Ex Domingo Nieto)</br>
+                      <span class="txtContactB"> <b class="txtContactR">Ubicaci&oacute;n:</b> Jr. Marcos Palomino  N° 198 (Ex Domingo Nieto)</br>
                           <img src="img/nothing.gif" width="73" height="1"/>Ref: Alt de las cuadras 19 y 20 Av. Brasil</span>
                     </div>
                 </div>

@@ -55,8 +55,8 @@ if($_conf){
                     <strong class="tituloMedioR">- Metodologías del Proyecto Optimist</strong><br/>
                     *Bits de lectura.<br/>
                     *Plan de valores.<br/>
-                    *Conciencia fonologica Eco- ritmico.<br/>
-                    *Circuito nuromotor.<br/><br/>
+                    *Conciencia fonol&oacute;gica Eco- r&iacute;tmico.<br/>
+                    *Circuito neuromotor.<br/><br/>
 
                     <strong class="tituloMedioR">- Asesoria Psicológica permanente.</strong><br/>
                     * Evaluaciones<br/>
@@ -65,15 +65,14 @@ if($_conf){
                     *Lenguaje.<br/>
                     *Modificación de conducta.<br/><br/>
 
-                    <strong class="tituloMedioR">2-Talleres todo el año.</strong><br/>
-                    *Ballet.-   Danza que requiere de gran concentración para el dominio<br/>
-                    <img src="img/nothing.gif" width="55" height="1"/>de todo el cuerpo.ademasde desarrollar la flexibif.<br/>
-                    *Danza.- Desarrolla la fuerza corporal  y hace que los niños puedan <br/>
-                    <img src="img/nothing.gif" width="55" height="1"/>expresar en cuerpo alma y expresion<br/>
-                    <img src="img/nothing.gif" width="55" height="1"/>facial cualquier tipo de sentir.<br/>
-                    *karate.-  Ayuda a mejorar el estado físico-Coordinación, equilibrio.<br/>
-                    *Musica.- Acelera el desarrollo cerebral de los niños, así como que tiene un efecto <br/>
-                    <img src="img/nothing.gif" width="55" height="1"/>positivo sobre la memoria y la atención.<br/>
+                    <strong class="tituloMedioR">2-Talleres todo el a&ntilde;o.</strong><br/>
+                    *Ballet.-   Danza que requiere de gran concentración para el dominio  de todo <br/>
+                    <img src="img/nothing.gif" width="55" height="1"/>el cuerpo.  Además  de desarrollar la flexibilidad<br/>
+                    *Danza.- Desarrolla la fuerza corporal y hace que los niños puedan expresar  <br/>
+                    <img src="img/nothing.gif" width="55" height="1"/>en cuerpo, alma y expresión facial cualquier tipo de sentir.<br/>
+                    *karate.- Ayuda a mejorar el estado físico, coordinación  y equilibrio.<br/>
+                    *Musica.- Acelera el desarrollo cerebral de los niños, ejerciendo  un efecto<br/>
+                    <img src="img/nothing.gif" width="55" height="1"/> positivo sobre la memoria y la atención.<br/>
                    
                     </div>
                 </div>
